@@ -1,0 +1,22 @@
+.id{
+    background-image:url("friendship1.jpg!w700wp");
+    background-size:cover;
+}
+h1{
+    margin: auto;
+    color:rgb(21, 22, 42);
+   text-align:center;
+  
+
+}
+h1:hover{
+    color:rgb(220, 14, 14);
+    transition:0.5s ease-in 0.5s ;
+}
+p{
+color:rgba(249, 251, 252, 0.5)
+
+}
+b{
+    color:red;
+}
